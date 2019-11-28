@@ -1,0 +1,19 @@
+{
+  "name": "pj381f",
+  "version": "1.0.0",
+  "description": "Project 381f",
+  "main": "login.js",
+  "scripts": {
+    "test": "error?",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "project"
+  ],
+  "author": "Danny",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^1.0.0",
+    "express": "^4.17.1"
+  }
+}
